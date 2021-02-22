@@ -1,0 +1,34 @@
+{
+  "name": "page",
+  "version": "1.0.0",
+  "description": "## Installation",
+  "main": "webpack_config.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "css-loader": "^5.0.2",
+    "jquery": "^3.5.1",
+    "mini-css-extract-plugin": "^1.3.8",
+    "node-sass": "^5.0.0",
+    "popper.js": "^1.16.1",
+    "postcss-loader": "^5.0.0",
+    "sass-loader": "^11.0.1",
+    "style-loader": "^2.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.23.0",
+    "webpack-cli": "^4.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404Not-found/page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/404Not-found/page/issues"
+  },
+  "homepage": "https://github.com/404Not-found/page#readme"
+}
