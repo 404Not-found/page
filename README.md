@@ -13,15 +13,13 @@ sudo apt install -y python3-pip \
 		postgresql \
 		postgresql-contrib \
 		nodejs \
-        npm
+		npm
 ```
 Requirements:
 
 `pip install -r requirements.txt`
 
 ## Run webpack
-`npm install --save-dev webpack webpack-cli`
-`npm install bootstrap`
-`npm install node-sass`
-`npm install style-loader css-loader sass-loader`
+`npm install`
+
 `npx webpack --config webpack_config.js`
